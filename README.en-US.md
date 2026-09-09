@@ -33,3 +33,7 @@ This is a Python script designed to convert a list of IP addresses into a specif
 ## Contributing
 
 Suggestions for improvements and issue reports are welcome.
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
